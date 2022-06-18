@@ -1,4 +1,4 @@
-# privacy-policy
+# Privacy Policy
 <h1>Makao.asia</h1>
 <p>Terms & Conditions
 (Applied from June 01, 2022) </p>
